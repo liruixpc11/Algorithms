@@ -16,3 +16,4 @@ add_executable(p1001 src/oj/hangdian/p1001.cpp)
 
 add_executable(LC_p0003 src/oj/leetcode/p0003.cpp)
 add_executable(LC_p0004 src/oj/leetcode/p0004.cpp)
+add_executable(LC_p0005 src/oj/leetcode/p0005.cpp)
